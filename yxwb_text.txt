@@ -1,0 +1,58 @@
+translate(平移)、rotate(旋转)、scale(缩放)、skew(倾斜)
+
+放大
+
+由最小逐渐放大到原图
+
+matrix.postRotate(15,bmp.getWidth()/2,bmp.getHeight()/2);//旋转
+m.postskew(100 ,  100 ); //平移
+v3.0更新内容:
+    1.增加了创作GIF功能，其中包括的内容有:手绘gif,文字动画，图片动画。
+	2.增加了选取图片的几个快捷路径(包括:相册，截图)，使之更方便的寻找图片。
+    3.修复了选取图片时界面跳转逻辑关系的问题
+    4.修改了视频转gif后直接跳转到预览界面，使之可以查看祯图。
+	
+	
+	GIF制作器是一款专业制作生成GIF格式的动态图的软件，并且可以自定义每个图片之间的时间并可以修改每个帧图。支持视频转为GIF，支持文字动画、图片动画转为GIF。并且支持手绘，可以充分自由的享受每次创作GIF的过程。
+	
+	
+	GIF制作器v3.0更新内容:
+    1.增加了创作GIF功能，其中包括的内容有:手绘gif,文字动画，图片动画。
+	2.增加了选取图片的几个快捷路径(包括:相册，截图)，使之更方便的寻找图片。
+    3.修复了选取图片时界面跳转逻辑关系的问题
+    4.修改了视频转gif后直接跳转到预览界面，使之可以查看祯图。
+	GIF制作器v3下载链接：
+	百度市场：
+	http://shouji.baidu.com/soft/item?docid=8754560&from=landing&f=search_app_gif%E5%88%B6%E4%BD%9C%40list_1_title%404%40search_sug_app
+	豌豆荚市场：
+	http://www.wandoujia.com/apps/com.youxianwubian.gifzzq
+	本次开源了GIF制作器文字动画的部分内容。。项目名称（文字动画（Textdh））
+	关于本项目的相关链接：
+	博客链接：
+	http://blog.csdn.net/zhangjie1425/article/details/50544871
+	源码链接：
+	http://download.csdn.net/detail/zhangjie1425/9410671
+	
+	Unix的哲学是“没有消息就是好消息”
+	
+	zhang@zhang-PC MINGW64 ~
+$ git config --list   //查看所有配置
+core.symlinks=false
+core.autocrlf=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+http.sslcainfo=G:/zhangjie/android/git/Git/mingw64/ssl/certs/ca-bundle.crt
+diff.astextplain.textconv=astextplain
+rebase.autosquash=true
+user.name=yxwb
+user.email=1425255972@qq.com
+
+zhang@zhang-PC MINGW64 ~
+
+	
+	
+	
+	
